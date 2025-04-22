@@ -1,0 +1,6 @@
+@Backend_SafeSpace_HostAddress = http://localhost:5053
+
+GET {{Backend_SafeSpace_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

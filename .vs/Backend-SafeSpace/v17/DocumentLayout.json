@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CFF366-E6A3-4509-9BBA-05412C8F40D1}|Backend-SafeSpace\\Backend-SafeSpace.csproj|c:\\users\\dealb\\source\\repos\\backend-safespace\\backend-safespace\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CFF366-E6A3-4509-9BBA-05412C8F40D1}|Backend-SafeSpace\\Backend-SafeSpace.csproj|solutionrelative:backend-safespace\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CFF366-E6A3-4509-9BBA-05412C8F40D1}|Backend-SafeSpace\\Backend-SafeSpace.csproj|c:\\users\\dealb\\source\\repos\\backend-safespace\\backend-safespace\\myappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CFF366-E6A3-4509-9BBA-05412C8F40D1}|Backend-SafeSpace\\Backend-SafeSpace.csproj|solutionrelative:backend-safespace\\myappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CFF366-E6A3-4509-9BBA-05412C8F40D1}|Backend-SafeSpace\\Backend-SafeSpace.csproj|c:\\users\\dealb\\source\\repos\\backend-safespace\\backend-safespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CFF366-E6A3-4509-9BBA-05412C8F40D1}|Backend-SafeSpace\\Backend-SafeSpace.csproj|solutionrelative:backend-safespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CFF366-E6A3-4509-9BBA-05412C8F40D1}|Backend-SafeSpace\\Backend-SafeSpace.csproj|c:\\users\\dealb\\source\\repos\\backend-safespace\\backend-safespace\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CFF366-E6A3-4509-9BBA-05412C8F40D1}|Backend-SafeSpace\\Backend-SafeSpace.csproj|solutionrelative:backend-safespace\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CFF366-E6A3-4509-9BBA-05412C8F40D1}|Backend-SafeSpace\\Backend-SafeSpace.csproj|c:\\users\\dealb\\source\\repos\\backend-safespace\\backend-safespace\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CFF366-E6A3-4509-9BBA-05412C8F40D1}|Backend-SafeSpace\\Backend-SafeSpace.csproj|solutionrelative:backend-safespace\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CFF366-E6A3-4509-9BBA-05412C8F40D1}|Backend-SafeSpace\\Backend-SafeSpace.csproj|c:\\users\\dealb\\source\\repos\\backend-safespace\\backend-safespace\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CFF366-E6A3-4509-9BBA-05412C8F40D1}|Backend-SafeSpace\\Backend-SafeSpace.csproj|solutionrelative:backend-safespace\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CFF366-E6A3-4509-9BBA-05412C8F40D1}|Backend-SafeSpace\\Backend-SafeSpace.csproj|c:\\users\\dealb\\source\\repos\\backend-safespace\\backend-safespace\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CFF366-E6A3-4509-9BBA-05412C8F40D1}|Backend-SafeSpace\\Backend-SafeSpace.csproj|solutionrelative:backend-safespace\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CFF366-E6A3-4509-9BBA-05412C8F40D1}|Backend-SafeSpace\\Backend-SafeSpace.csproj|c:\\users\\dealb\\source\\repos\\backend-safespace\\backend-safespace\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CFF366-E6A3-4509-9BBA-05412C8F40D1}|Backend-SafeSpace\\Backend-SafeSpace.csproj|solutionrelative:backend-safespace\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CFF366-E6A3-4509-9BBA-05412C8F40D1}|Backend-SafeSpace\\Backend-SafeSpace.csproj|c:\\users\\dealb\\source\\repos\\backend-safespace\\backend-safespace\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9CFF366-E6A3-4509-9BBA-05412C8F40D1}|Backend-SafeSpace\\Backend-SafeSpace.csproj|solutionrelative:backend-safespace\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c2a18b40-6ff3-3d71-b282-8737b5098a24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\Program.cs",
+              "RelativeDocumentMoniker": "Backend-SafeSpace\\Program.cs",
+              "ToolTip": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\Program.cs",
+              "RelativeToolTip": "Backend-SafeSpace\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:36:10.697Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Backend-SafeSpace\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\WeatherForecast.cs",
+              "RelativeToolTip": "Backend-SafeSpace\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:35:14.646Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\TestController.cs",
+              "RelativeDocumentMoniker": "Backend-SafeSpace\\TestController.cs",
+              "ToolTip": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\TestController.cs",
+              "RelativeToolTip": "Backend-SafeSpace\\TestController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:00:25.774Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\User.cs",
+              "RelativeDocumentMoniker": "Backend-SafeSpace\\User.cs",
+              "ToolTip": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\User.cs",
+              "RelativeToolTip": "Backend-SafeSpace\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:57:35.207Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\Profile.cs",
+              "RelativeDocumentMoniker": "Backend-SafeSpace\\Profile.cs",
+              "ToolTip": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\Profile.cs",
+              "RelativeToolTip": "Backend-SafeSpace\\Profile.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:30:00.361Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend-SafeSpace\\appsettings.json",
+              "ToolTip": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\appsettings.json",
+              "RelativeToolTip": "Backend-SafeSpace\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T15:36:42.898Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\LoginController.cs",
+              "RelativeDocumentMoniker": "Backend-SafeSpace\\LoginController.cs",
+              "ToolTip": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\LoginController.cs",
+              "RelativeToolTip": "Backend-SafeSpace\\LoginController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAuwEcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:15:25.855Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Backend-SafeSpace\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\RegisterController.cs",
+              "RelativeToolTip": "Backend-SafeSpace\\RegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:37:58.791Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\MyAppDbContext.cs",
+              "RelativeDocumentMoniker": "Backend-SafeSpace\\MyAppDbContext.cs",
+              "ToolTip": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\MyAppDbContext.cs",
+              "RelativeToolTip": "Backend-SafeSpace\\MyAppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:33:42.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
