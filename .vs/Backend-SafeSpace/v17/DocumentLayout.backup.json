@@ -59,8 +59,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T15:36:10.697Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -73,8 +72,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T15:35:14.646Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -87,8 +85,7 @@
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T17:00:25.774Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -101,8 +98,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T15:57:35.207Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "ViewState": "AgIAAAgAAAAAAAAAAAA7wA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T16:30:00.361Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -129,8 +124,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-14T15:36:42.898Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -138,9 +132,9 @@
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\LoginController.cs",
               "RelativeDocumentMoniker": "Backend-SafeSpace\\LoginController.cs",
-              "ToolTip": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\LoginController.cs*",
-              "RelativeToolTip": "Backend-SafeSpace\\LoginController.cs*",
-              "ViewState": "AgIAADwAAAAAAAAAAAAuwEcAAAAsAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\dealb\\source\\repos\\Backend-SafeSpace\\Backend-SafeSpace\\LoginController.cs",
+              "RelativeToolTip": "Backend-SafeSpace\\LoginController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwCkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T15:15:25.855Z",
               "IsPinned": true,
@@ -157,8 +151,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T13:37:58.791Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "Backend-SafeSpace\\MyAppDbContext.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAYwBAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T16:33:42.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T16:33:42.781Z"
             }
           ]
         }
