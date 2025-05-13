@@ -1,4 +1,6 @@
-﻿namespace Backend_SafeSpace
+﻿using Backend_SafeSpace.Migrations;
+
+namespace Backend_SafeSpace
 {
     public class User
     {
@@ -10,5 +12,8 @@
 
         public DateTime createdAt {  get; set; }
         public Profile profile { get; set; } //
+
+        public ICollection<UserChatroom> UserChatrooms { get; set; }
+        public List<Message> SentMessages { get; set; }// Relationship to Chatrooms (many-to-man
     }
 }

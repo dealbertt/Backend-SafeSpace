@@ -4,6 +4,7 @@ using Backend_SafeSpace;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Backend_SafeSpace.Migrations
 {
     [DbContext(typeof(MyAppDbContext))]
-    partial class MyAppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250513125514_AddChatRoom")]
+    partial class AddChatRoom
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -37,36 +40,6 @@ namespace Backend_SafeSpace.Migrations
                     b.HasKey("ChatroomId");
 
                     b.ToTable("Chatrooms");
-                });
-
-            modelBuilder.Entity("Backend_SafeSpace.Migrations.Message", b =>
-                {
-                    b.Property<int>("MessageId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("MessageId"));
-
-                    b.Property<int>("ChatRoomId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Content")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("SenderId")
-                        .HasColumnType("int");
-
-                    b.Property<DateTime>("Timestamp")
-                        .HasColumnType("datetime2");
-
-                    b.HasKey("MessageId");
-
-                    b.HasIndex("ChatRoomId");
-
-                    b.HasIndex("SenderId");
-
-                    b.ToTable("Message");
                 });
 
             modelBuilder.Entity("Backend_SafeSpace.Profile", b =>
@@ -142,25 +115,6 @@ namespace Backend_SafeSpace.Migrations
                     b.ToTable("UserChatrooms");
                 });
 
-            modelBuilder.Entity("Backend_SafeSpace.Migrations.Message", b =>
-                {
-                    b.HasOne("Backend_SafeSpace.Chatroom", "ChatRoom")
-                        .WithMany("Messages")
-                        .HasForeignKey("ChatRoomId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("Backend_SafeSpace.User", "Sender")
-                        .WithMany("SentMessages")
-                        .HasForeignKey("SenderId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("ChatRoom");
-
-                    b.Navigation("Sender");
-                });
-
             modelBuilder.Entity("Backend_SafeSpace.Profile", b =>
                 {
                     b.HasOne("Backend_SafeSpace.User", "user")
@@ -193,15 +147,11 @@ namespace Backend_SafeSpace.Migrations
 
             modelBuilder.Entity("Backend_SafeSpace.Chatroom", b =>
                 {
-                    b.Navigation("Messages");
-
                     b.Navigation("UserChatrooms");
                 });
 
             modelBuilder.Entity("Backend_SafeSpace.User", b =>
                 {
-                    b.Navigation("SentMessages");
-
                     b.Navigation("UserChatrooms");
 
                     b.Navigation("profile")
