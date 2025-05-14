@@ -17,6 +17,9 @@ namespace Backend_SafeSpace
 
         public DbSet<Message> Messages { get; set; }
 
+        public DbSet<Professional> Professionals { get; set; }
+
+
         protected override void OnModelCreating(ModelBuilder modelbuilder)
         {
             base.OnModelCreating(modelbuilder);

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Backend-SafeSpace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6e48698d5ec9adc4cd19fd5ab0cc39fe9cdfb51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91984b9fa77fd4c2669a7bdb90d59b612fddb7dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Backend-SafeSpace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Backend-SafeSpace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
