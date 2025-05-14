@@ -6,7 +6,7 @@ namespace Backend_SafeSpace
     {
         public int ChatroomId { get; set; }  // Primary key
         public string Name { get; set; }     // Chatroom name
-        public List<Message> Messages { get; set; } = new List<Message>();
+        public ICollection<Message> Messages { get; set; } = new List<Message>();
         public ICollection<UserChatroom> UserChatrooms { get; set; }
     }
 

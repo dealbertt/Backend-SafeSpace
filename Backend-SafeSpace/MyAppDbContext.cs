@@ -15,6 +15,8 @@ namespace Backend_SafeSpace
         public DbSet<Chatroom> Chatrooms { get; set; }
         public DbSet<UserChatroom> UserChatrooms { get; set; }
 
+        public DbSet<Message> Messages { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelbuilder)
         {
             base.OnModelCreating(modelbuilder);
@@ -39,9 +41,9 @@ namespace Backend_SafeSpace
                 .HasForeignKey(uc => uc.ChatroomId);
 
             modelbuilder.Entity<Message>()
-            .HasOne(m => m.ChatRoom)
+            .HasOne(m => m.Chatroom)
             .WithMany(c => c.Messages)
-            .HasForeignKey(m => m.ChatRoomId);
+            .HasForeignKey(m => m.ChatroomId);
 
             modelbuilder.Entity<Message>()
                 .HasOne(m => m.Sender)
